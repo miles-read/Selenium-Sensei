@@ -58,5 +58,4 @@ General
 
 * `License <LICENSE>`_
 
-If you have any questions you can contact me via:
-readmiles00@gmail.com
+
